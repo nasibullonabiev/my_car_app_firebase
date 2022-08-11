@@ -1,0 +1,24 @@
+# This is a generated file; do not edit or check into version control.
+firebase_auth=/Users/nabievnasibullo/.pub-cache/hosted/pub.dartlang.org/firebase_auth-3.6.2/
+firebase_auth_web=/Users/nabievnasibullo/.pub-cache/hosted/pub.dartlang.org/firebase_auth_web-4.2.2/
+firebase_core=/Users/nabievnasibullo/.pub-cache/hosted/pub.dartlang.org/firebase_core-1.20.0/
+firebase_core_web=/Users/nabievnasibullo/.pub-cache/hosted/pub.dartlang.org/firebase_core_web-1.7.1/
+firebase_crashlytics=/Users/nabievnasibullo/.pub-cache/hosted/pub.dartlang.org/firebase_crashlytics-2.8.6/
+firebase_database=/Users/nabievnasibullo/.pub-cache/hosted/pub.dartlang.org/firebase_database-9.1.0/
+firebase_database_web=/Users/nabievnasibullo/.pub-cache/hosted/pub.dartlang.org/firebase_database_web-0.2.1+2/
+firebase_storage=/Users/nabievnasibullo/.pub-cache/hosted/pub.dartlang.org/firebase_storage-10.3.4/
+firebase_storage_web=/Users/nabievnasibullo/.pub-cache/hosted/pub.dartlang.org/firebase_storage_web-3.3.2/
+flutter_plugin_android_lifecycle=/Users/nabievnasibullo/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-2.0.7/
+image_picker=/Users/nabievnasibullo/.pub-cache/hosted/pub.dartlang.org/image_picker-0.8.5+3/
+image_picker_android=/Users/nabievnasibullo/.pub-cache/hosted/pub.dartlang.org/image_picker_android-0.8.5+2/
+image_picker_for_web=/Users/nabievnasibullo/.pub-cache/hosted/pub.dartlang.org/image_picker_for_web-2.1.8/
+image_picker_ios=/Users/nabievnasibullo/.pub-cache/hosted/pub.dartlang.org/image_picker_ios-0.8.5+6/
+path_provider_linux=/Users/nabievnasibullo/.pub-cache/hosted/pub.dartlang.org/path_provider_linux-2.1.7/
+path_provider_windows=/Users/nabievnasibullo/.pub-cache/hosted/pub.dartlang.org/path_provider_windows-2.1.2/
+shared_preferences=/Users/nabievnasibullo/.pub-cache/hosted/pub.dartlang.org/shared_preferences-2.0.15/
+shared_preferences_android=/Users/nabievnasibullo/.pub-cache/hosted/pub.dartlang.org/shared_preferences_android-2.0.12/
+shared_preferences_ios=/Users/nabievnasibullo/.pub-cache/hosted/pub.dartlang.org/shared_preferences_ios-2.1.1/
+shared_preferences_linux=/Users/nabievnasibullo/.pub-cache/hosted/pub.dartlang.org/shared_preferences_linux-2.1.1/
+shared_preferences_macos=/Users/nabievnasibullo/.pub-cache/hosted/pub.dartlang.org/shared_preferences_macos-2.0.4/
+shared_preferences_web=/Users/nabievnasibullo/.pub-cache/hosted/pub.dartlang.org/shared_preferences_web-2.0.4/
+shared_preferences_windows=/Users/nabievnasibullo/.pub-cache/hosted/pub.dartlang.org/shared_preferences_windows-2.1.1/
